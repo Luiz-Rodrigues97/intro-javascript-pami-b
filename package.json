@@ -10,11 +10,18 @@
     "type": "git",
     "url": "git+https://github.com/Luiz-Rodrigues97/intro-javascript-pami-b.git"
   },
-  "keywords": ["Revisão","javascriptr"],
+  "keywords": [
+    "Revisão",
+    "javascriptr"
+  ],
   "author": "luiz fernando",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Luiz-Rodrigues97/intro-javascript-pami-b/issues"
   },
-  "homepage": "https://github.com/Luiz-Rodrigues97/intro-javascript-pami-b#readme"
+  "homepage": "https://github.com/Luiz-Rodrigues97/intro-javascript-pami-b#readme",
+  "dependencies": {
+    "prompt": "^1.3.0",
+    "prompt-sync": "^4.2.0"
+  }
 }

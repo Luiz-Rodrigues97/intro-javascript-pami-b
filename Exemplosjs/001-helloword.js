@@ -30,3 +30,12 @@ console.log('0 ' + nome + 'tem ' + idade + ' anos.' );
 console.log('');;
 console.log('--------------------------');
 console.log(typeof(coresfavoritas));
+const ehArray = Array.isArray( coresfavoritas);
+
+console.log(ehArray === true? 'È um array': 'Não é um array');
+
+if (ahArray === true ) {
+    console.log('È um aray');
+} else {
+    console.log('Não é um array') 
+}
